@@ -1,10 +1,10 @@
-# FeedWave: React Native Instagram Clone
+# LensWave: React Native Instagram Clone
 
-Welcome to **FeedWave** - Your Ultimate React Native Instagram-like App!
+Welcome to **LensWave** - Your Ultimate React Native Instagram-like App!
 
 ## Introduction
 
-FeedWave is an Instagram clone designed to help users share photos, connect with friends, and explore the world through visual content. Built using React Native, this app offers a seamless and captivating way to experience and share moments with others. This README provides an overview of FeedWave, installation instructions, and usage guidelines.
+LensWave is an Instagram clone designed to help users share photos, connect with friends, and explore the world through visual content. Built using React Native, this app offers a seamless and captivating way to experience and share moments with others. This README provides an overview of LensWave, installation instructions, and usage guidelines.
 
 ## Features
 
